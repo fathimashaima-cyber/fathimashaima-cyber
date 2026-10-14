@@ -11,11 +11,11 @@ Currently, I'm strengthening my knowledge of **Security Operations Center (SOC) 
 
 ### Technical Skills & Knowledge
 
-- **Security Operations:** Alert Triage, Log Analysis, Security Monitoring, Incident Investigation
-- **SIEM:** Splunk (Academic Project)
+- **Security Operations:** SOC Monitoring, Alert Triage, Log Analysis, Incident Investigation, Incident Documentation
+- **SIEM:** Splunk (Academic Project), Security Event Analysis
 - **Network Security:** TCP/IP, DNS, HTTP/HTTPS, Wireshark
 - **Operating Systems:** Windows, Linux
-- **Threat Intelligence:** VirusTotal, MITRE ATT&CK
+- **Threat Intelligence:** VirusTotal, MITRE ATT&CK, Indicators of Compromise (IOCs)
 - **Cybersecurity Fundamentals:** Network Security, Vulnerability Assessment, Ethical Hacking
 
 ### Certifications
@@ -45,12 +45,6 @@ Currently, I'm strengthening my knowledge of **Security Operations Center (SOC) 
 - TryHackMe
 - LetsDefend
 - KC7 Cyber
-
-### Career Focus
-
-I'm working toward a career in **Cybersecurity and Security Operations**, with a particular interest in SOC analysis, threat detection, and incident investigation.
-
-My goal is to continuously improve my technical and analytical skills through practical learning and cybersecurity projects.
 
 
 ### Connect With Me
